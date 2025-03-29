@@ -23,10 +23,10 @@
 ## Сборка
 Для сборки используется make
 ```bash
-git clone https://github.com/innoky/BTree---CPP-realisation
+git clone https://github.com/innoky/BTree-CPP-realization
 ```
 ``` bash
-cd BTree---CPP-realisation 
+cd BTree-CPP-realization
 ```
 ```bash
 make
